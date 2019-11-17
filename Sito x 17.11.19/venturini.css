@@ -1,0 +1,10 @@
+body{
+
+  font-family: 'Elephant', sans-serif;
+}
+.jumbotron{
+    background-image : url("http://www.mauriziobonani.com/site/assets/files/1043/social.png");
+    background-color:white  ;
+    font-family: 'Bowlby One SC', cursive;
+
+}
